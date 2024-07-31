@@ -27,8 +27,6 @@ setup(
     install_requires=[],  # List of required dependencies
     extras_require = {'all': install_requires,
                       'colab': colab_required},
-    url='https://github.com/federicosiciliano/easy_torch.git',  # Replace with the URL of your GitHub repository
-    author='Federico Siciliano',
-    author_email='siciliano@diag.uniroma1.it',
+    url='https://github.com/anonymoususer322/easy_torch.git',  # Replace with the URL of your GitHub repository
     keywords=['MachineLearning', 'PyTorch', 'AI']  # Keywords related to your package
 )
